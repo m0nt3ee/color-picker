@@ -25,7 +25,7 @@ A lightweight Flutter app for **picking colors** on Windows. Choose any color an
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/m0nt3ee/color_picker.git](https://github.com/m0nt3ee/color_picker.git)
+   git clone https://github.com/m0nt3ee/color_picker.git
    cd color_picker
    ```
    
