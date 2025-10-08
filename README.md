@@ -5,7 +5,7 @@ A lightweight Flutter app for **picking colors** on Windows. Choose any color an
 ## Features
 
 - Select colors using a **color picker**.  
-- Displays the **selected color** and its **hex value**.  
+- Displays the **selected color** and its **rgb/hex/hsl value**.  
 - Simple and minimal UI for quick usage.  
 - Windows desktop support only.
 
@@ -25,21 +25,21 @@ A lightweight Flutter app for **picking colors** on Windows. Choose any color an
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/m0nt3ee/color_picker.git
+   git clone [https://github.com/m0nt3ee/color_picker.git](https://github.com/m0nt3ee/color_picker.git)
    cd color_picker
    ```
    
 2. Get dependencies:
 
-  ```bash
-  flutter pub get
-  ```
+   ```bash
+   flutter pub get
+   ```
 
 3. Run the app on Windows:
 
-  ```bash
-  flutter run -d windows
-  ```
+   ```bash
+   flutter run -d windows
+   ```
 
 ## How to use
 
