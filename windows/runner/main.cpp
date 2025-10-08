@@ -50,7 +50,7 @@ EncodableMap PickColorOnNextClickGlobal() {
 void RegisterColorPickerChannel(flutter::FlutterViewController* controller) {
     auto channel = std::make_unique<flutter::MethodChannel<EncodableValue>>(
         controller->engine()->messenger(),
-        "com.github.m0nt3ee.colorpickerr",
+        "com.github.m0nt3ee.colorpicker",
         &flutter::StandardMethodCodec::GetInstance()
     );
 
