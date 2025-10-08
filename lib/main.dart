@@ -35,7 +35,7 @@ class Homepage extends StatefulWidget {
 }
 
 class HomepageState extends State<Homepage> {
-  static const platform = MethodChannel('com.github.m0nt3ee.colorpicker');
+  static const platform = MethodChannel('com.github.m0nt3ee.colorpickerr');
   bool inUse = false;
 
   Color pickedColor = Colors.white;
